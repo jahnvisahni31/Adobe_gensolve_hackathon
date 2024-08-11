@@ -65,8 +65,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Contributors
 - **Sahil Jain**: [GitHub Profile](https://github.com/MegaBeing)
-<<<<<<< HEAD
-- **Jahnvi Sahni**: [GitHub Profile](https://github.com/jahnvisahni31)
-=======
-- **Jahnvi Sahni**: [GitHub Profile](https://github.com/jahnvisahni31)
->>>>>>> origin/main
+- **Jahnvi Sahni** [Github Profile](https://github.com/jahnvisahni98)
